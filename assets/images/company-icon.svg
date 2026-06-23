@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">AFQ Al Asmah National</title>
+  <rect width="64" height="64" rx="10" fill="#fffdfa"/>
+  <path d="M32 5 6 54l15-9 11-25z" fill="#46b9e4"/>
+  <path d="M32 5 58 54l-15-9-11-25z" fill="#2d6792"/>
+  <path d="M6 54 32 44l26 10-16-5-10-5-11 5z" fill="#2f8a61"/>
+  <text x="32" y="42" text-anchor="middle" font-family="Georgia,serif" font-size="23" fill="#111">A</text>
+</svg>
